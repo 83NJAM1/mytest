@@ -1,8 +1,7 @@
 import javafx.application.Application;
 import javafx.stage.Stage;
 
-public class Main extends Application{
-
+public class TestFX extends Application{
 	public void start(Stage stage) {
 		stage.show();
 	}
